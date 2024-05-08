@@ -2,8 +2,6 @@
 
 cigarros_fumados_por_dia = int(input('Quantidade de cigarros fumado por dia: '))
 
-anos_como_fumante = int(input('Fuma a quanto tempo? '))
+anos_como_fumante = int(input('Fuma a quanto tempo? ')) * 365
 
-# anos * 365 dias
-
-print(f'{anos_como_fumante*365} Total de dias como fumante\nDias de vida que irá perder {cigarros_fumados_por_dia}')
+print(f'{anos_como_fumante} dias como fumante\nDias de vida que irá perder {((cigarros_fumados_por_dia*10)* anos_como_fumante)/60:2f} dias')
