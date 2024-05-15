@@ -7,7 +7,7 @@ taxa_juros = float(input('Insira a taxa de juros da poupança: '))
 mes = 1
 total_ganho = 0
 
-while mes <= 24:
+while mes <= 10:
     lucro = (dep_inicial * taxa_juros / 100)
     print(f'O lucro no {mes}° foi de {lucro:.2f} ')
     dep_inicial += lucro
