@@ -1,16 +1,33 @@
 <h1 align="center"> Introdução a programação com Python </h1>
 
 
-![capa_livro](https://github.com/jpsantosdealmeida/intro-a-programacao-com-python/assets/79612469/8cac9a81-8cb2-4daf-9375-f1aa9aeaa75f)
+<div align="center">
 
+![Design sem nome (3)](https://github.com/jpsantosdealmeida/intro-a-programacao-com-python/assets/79612469/ead1585d-17f1-44bf-8935-2cf5f5f13c0e)
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+</div>
 
+<div align="center">
+    
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+</div>
 Um estudante de Ciências da compução adentrando por todo o conhecimento fornecido pelo livro Introdução a programação python.
+
 
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
 </h4>
+
+
+## Como rodar a aplicação :arrow_forward:
+
+No terminal, clone o projeto: 
+
+```
+git@github.com:jpsantosdealmeida/intro-a-programacao-com-python.git
+```
 
 
 # Autores
