@@ -1,5 +1,5 @@
 # Analise e responda o que acontece se os valores são iguais?
-# minha resposta sem olha a resolução
+# minha resposta sem olhar a resolução
 # acho que não acontece nenhuma das ações pois não cai nas condições
 
 a = int(input('Primeiro valor: '))

@@ -5,4 +5,4 @@ b = 'maria'
 print(a+b)
 # retorna 'joao e maria'
 
-print(a + 'Joana ' * 2)
+print(a + 'Joana ' * 2) # Podemos usar os operadores lógicos para multiplica strins em um print

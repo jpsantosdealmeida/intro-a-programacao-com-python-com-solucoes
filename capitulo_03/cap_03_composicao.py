@@ -1,4 +1,4 @@
-# Composiçãos
+# Composição
 x = 15
 idade = 24
 

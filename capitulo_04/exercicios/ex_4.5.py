@@ -1,3 +1,4 @@
+# Execute o Ex 4.4
 # Verifique se o resultado foi o mesmo colocando o else
 # Sim, foi
 salario = float(input('Insira o valor do salário: '))
