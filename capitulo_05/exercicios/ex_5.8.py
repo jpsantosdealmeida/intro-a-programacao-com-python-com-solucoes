@@ -18,3 +18,5 @@ while x != resultado - num_1:
     print(f'{num_1} +', end=' ')
     x += num_1
 print(f'{num_1} = {resultado}')
+
+
