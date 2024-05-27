@@ -45,8 +45,7 @@ Cada capítulo do livro tem sua própria pasta, que contém uma explicação dos
 ## :arrow_forward: Como rodar a aplicação <br>
 
 
-No terminal, clone o projeto: 
-
+No terminal, clone o projeto: `git clone` e o seguinte código abaixo no terminal
 ```
 git@github.com:jpsantosdealmeida/intro-a-programacao-com-python.git
 ```
