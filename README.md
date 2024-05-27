@@ -20,8 +20,24 @@ Um estudante de Ciências da compução adentrando por todo o conhecimento forne
     :construction:  Projeto em construção  :construction:
 </h4>
 
+## 💡 Introdução à Programação com Python - Explicações e Exercícios
 
-## Como rodar a aplicação :arrow_forward:
+Este repositório contém explicações e exercícios do livro "Introdução à Programação com Python" de Nilo Ney Coutinho. Este é um recurso para quem está estudando o livro e quer tentar resolver os exercícios por conta própria antes de olhar as soluções.
+
+## 📚 Estrutura do Repositório
+
+Cada capítulo do livro tem sua própria pasta, que contém uma explicação dos conceitos abordados e uma pasta com os exercícios do capítulo.
+
+
+## ❓ Como Usar Este Repositório
+
+1. Navegue até a pasta do capítulo que você está estudando.
+2. Leia a explicação em `explicacao.md` para entender os conceitos abordados.
+3. Vá para a pasta `exercicios/` e tente resolver os exercícios nos arquivos `.py`.
+4. (Opcional) Compare suas soluções com as soluções disponíveis no repositório de soluções [link para o repositório de soluções].
+
+
+## :arrow_forward: Como rodar a aplicação 
 
 No terminal, clone o projeto: 
 
@@ -29,8 +45,17 @@ No terminal, clone o projeto:
 git@github.com:jpsantosdealmeida/intro-a-programacao-com-python.git
 ```
 
+## 👐Contribuindo
 
-# Autores
+Se você encontrar erros ou tiver sugestões de melhoria, fique à vontade para abrir uma issue ou enviar um pull request.
+
+## 📄Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+
+
+# 👤 Autores
 
  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/79612469?s=400&u=d066036ced6ede3832b29b5a666797ebf85b9a04&v=4" width=115><br><sub>João Paulo Almeida</sub>](https://github.com/jpsantosdealmeida)
 
