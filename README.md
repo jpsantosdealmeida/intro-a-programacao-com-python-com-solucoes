@@ -47,7 +47,7 @@ Cada capítulo do livro tem sua própria pasta, que contém uma explicação dos
 
 No terminal, clone o projeto: `git clone` e o seguinte código abaixo no terminal
 ```
-git@github.com:jpsantosdealmeida/intro-a-programacao-com-python.git
+https://github.com/jpsantosdealmeida/intro-a-programacao-com-python-com-solucoes.git
 ```
 
 ## 👐Contribuindo<br>
