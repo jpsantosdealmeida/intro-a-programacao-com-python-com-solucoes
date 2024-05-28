@@ -29,7 +29,7 @@ Este repositório contém explicações e exercícios do livro "Introdução à 
 
 
 Cada capítulo do livro tem sua própria pasta, que contém uma explicação dos conceitos abordados e uma pasta com os exercícios do capítulo.
-- **cap_01**: Contém a explicação do Capítulo 1 em `explicacao.md` e os exercícios em `exercicios/`.<br>
+- **cap_01**: Contém a explicação do Capítulo 1 em `cap-x - explicacoes/` e os exercícios em `exercicios/` já solucionados.<br>
 
 
 
