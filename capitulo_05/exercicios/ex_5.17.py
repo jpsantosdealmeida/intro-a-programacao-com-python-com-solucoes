@@ -1,6 +1,6 @@
 # O que acontece se digitarmos 0
 
-# Execute o programa 5.1 de cédulas
+# Execute o programa de cédulas
 
 valor = int(input('Digite o valor a pagar: ')) # 245
 cedulas = 0

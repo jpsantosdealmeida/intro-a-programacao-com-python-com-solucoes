@@ -1,4 +1,4 @@
-# Reescreva o programa 5.1 de forma a continuar executando até que o valor digitado seja 0. Utilize repetições aninhadas.
+# Reescreva o programa de forma a continuar executando até que o valor digitado seja 0. Utilize repetições aninhadas.
 
 valor = int(input('Digite o valor a pagar: ')) # 245
 cedulas = 0

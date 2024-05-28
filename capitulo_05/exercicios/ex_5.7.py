@@ -1,5 +1,5 @@
 # Tabuada
-# modifique o programa a fim que o usuário digite o início e o fim da tabuada
+# modifique o programa anterior a fim que o usuário digite o início e o fim da tabuada oa invés de começar com 1 e 10.
 print('-' * 15)
 print('    Tabuada')
 print('-' * 15)

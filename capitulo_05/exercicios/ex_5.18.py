@@ -1,4 +1,4 @@
-# Execute o programa 5.1 de cédulas
+# Execute o programa de cédulas
 # Modifique o programa para receber cédular de 100
 
 valor = int(input('Digite o valor a pagar: ')) # 245

@@ -1,4 +1,4 @@
-# Modifique o exemplo para procurar 2 valores. Em vez de apenas p, leia outro valor v que também será procurado.
+# Modifique o exemplo anterior para procurar 2 valores. Em vez de apenas p, leia outro valor v que também será procurado.
 # Na impressão, indique qual dos 2 valores foi achado primeiro.
 
 lista = [1,2,3,4,5]
