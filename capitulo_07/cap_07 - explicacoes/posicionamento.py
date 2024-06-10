@@ -80,3 +80,23 @@ print(f'{t1.lstrip()} > REMOVI SOMENTE OS ESPAÇOS EM BRANCO A ESQUERDA')
 print(f'{t1.rstrip()} > REMOVI SOMENTE OS ESPAÇOS EM BRANCO A DIREITA\n')
 
 print('ISALPHA\n'.center(50))
+v = '125'
+u = 'alô mundo'
+print(f'{v.isalnum()} > CONTEM NUMEROS OU LETRAS?')
+print(f'{u.isalnum()} > AQUI CONTEM LETRAS POREM TEM ESPAÇOS')
+print(f'{v.isalpha()} > CONTEM LETRAS?')
+print(f'{u.isalpha()} > CONTEM LETRAS\n')
+
+print('ISDIGIT\n'.center(50))
+print(f'{v.isdigit()} > CONTEM NUMEROS?\n') # LEMBRANDO QUE A STRING NÃO PODE POSSUIR ESPAÇOS,PONTOS,VÍRGULAS OU SINAIS!
+
+print('ISUPPER\n'.center(50))
+a = 'ABC'
+b = 'abc'
+c = 'aBc'
+print(f'{a.isupper()} > VERIFICANDO SE A STRING a SÃO LETRAS MAIÚSCULAS')
+print(f'{a.islower()} > VERIFICANDO SE A STRING a SÃO LETRAS MINÚSCULAS')
+print(f'{b.isupper()} > VERIFICANDO SE A STRING b SÃO LETRAS MAIÚSCULAS')
+print(f'{b.islower()} > VERIFICANDO SE A STRING b SÃO LETRAS MINÚSCULAS ')
+print(f'{c.isupper()} > VERIFICANDO SE A STRING c SÃO LETRAS MAIÚSCULAS')
+print(f'{c.islower()} > VERIFICANDO SE A STRING c SÃO LETRAS MINÚSCULAS ')
