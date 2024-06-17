@@ -1,7 +1,4 @@
-'''
-Modifique o jogo da forca de forma a escrever a palavra secreta caso jogador perca.
-'''
-
+# JOGO DA FORCA
 # Solicita a palavra secreta
 palavra = input("Digite a palavra secreta: ").lower().strip()
 for x in range(100):
@@ -63,5 +60,4 @@ while True:
 
     if erros == 6:
         print("Enforcado!")  # Verifica se o jogador perdeu
-        print(f'A palavra secreta é: {palavra}')
         break
