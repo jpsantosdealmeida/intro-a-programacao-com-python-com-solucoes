@@ -27,3 +27,35 @@ def impar_par(x): # Outra função impar_par
     else:
         return 'Ímpar' # Se não retorna 'Ímpar'
 print(impar_par(3))
+
+"""
+>>> UMA FUNÇÃO DEVE RESOLVER APENAS UM PROBLEMA
+>>> ISSO A LONGO PRAZO É UMA BOA PRÁTICA PARA EXPORTAR EM OUTRO PROGRAMA
+"""
+'''
+As variáveis globais são aquelas declaradas fora de funções, e podem ser acessada de qualquer parte do código
+
+>>> x = 1
+>>> y = 2
+
+Ambas são variáveis globais
+
+def soma():
+    total = 0 
+>>> A variável total é local, existe somente dentro da função
+
+FUNÇÕES RECURSIVAS
+
+Uma função pode chamar a si mesma, e quando isso acontece chamamos de função recursiva.
+Um exemplo seria a função de cálculo de fatorial
+
+função recursiva do fatorial
+
+def fatorial(n):
+    if n == 0 or n == 1:
+        return 1
+    else:
+        return n * fatorial(n-1)
+
+
+'''
