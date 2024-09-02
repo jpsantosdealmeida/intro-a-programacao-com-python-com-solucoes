@@ -11,5 +11,5 @@ função (parametro 1, parametro 2)
 
 '''
 def maximo(a,b):
-    return True if b >= a else False # Utizei ternário , coloquei tudo em uma linha por ser tratar de um função simples
-print(maximo(5,5))
+    return b if b >= a else a # Utizei ternário , coloquei tudo em uma linha por ser tratar de um função simples
+print(maximo(6,1))

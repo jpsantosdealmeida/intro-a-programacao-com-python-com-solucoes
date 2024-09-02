@@ -57,5 +57,29 @@ def fatorial(n):
     else:
         return n * fatorial(n-1)
 
+>>> PARÂMETROS OPCIONAIS
+
+Nem sempre precisamos passar todos os parâmetros para uma função. preferindo deixar um valor previamente escolhido mas com a possibilidade de alterar.
+
+def barra():
+    print('*' * 40) # o print seria **************************************** - 40 asterísiscos
+
+ao invés disso, podemos usar parâmetros opcionais onde podemos tanto utilizar esses valores pré estabelecidos quanto muda-los.
+
+def barra_2(n=40,caractere='*')
+    print(caractere * n) # o print seria **************************************** - 40 asterísiscos
+
+o resultado é o mesmo mas poderiamos mudar quando quiser
+
+EX: 
+barra(5) o print seria *****
+ou
+barra(5,'&') # o print seria &&&&&
+
+podemos utilizar o nome do parâmtro para chamar , logo a ordem se torna irrelevante.
+
+barra(n=30,caractere = '/') ou barra(caractere = '/', n=30) OBS: QUANDO ESPECIFICAMOS UM PARAMETRO SOMOS OBRIGADO A ESPECIFICAR O NOME DE TODOS OS OUTROS.
+
+
 
 '''
