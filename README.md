@@ -23,7 +23,7 @@ Um estudante de Ciências da compução adentrando por todo o conhecimento forne
 ## 💡 Introdução à Programação com Python - Explicações e Exercícios<br>
 
 
-Este repositório contém explicações e exercícios do livro "Introdução à Programação com Python" de Nilo Ney Coutinho. Este é um recurso para quem está estudando o livro e quer tentar resolver os exercícios por conta própria antes de olhar as soluções.<br>
+Este repositório contém explicações e exercícios do livro "Introdução à Programação com Python" de Nilo Ney Coutinho. Este é um recurso para quem está estudando o livro e  quer comparar a solução chegado por mim .<br>
 
 ## 📚 Estrutura do Repositório<br>
 
